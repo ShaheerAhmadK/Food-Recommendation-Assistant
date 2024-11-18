@@ -1,0 +1,682 @@
+[
+    {
+        "restaurant": "Goga Naqibia",
+        "Location": "Gulberg",
+        "Menu": [
+            {
+                "Item": "Biryani",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 500
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 900
+                    }
+                ]
+            },
+            {
+                "Item": "Nihari",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 600
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1000
+                    }
+                ]
+            },
+            {
+                "Item": "Korma",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Mutton"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 1300
+                    }
+                ]
+            },
+            {
+                "Item": "Haleem",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 500
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 900
+                    }
+                ]
+            },
+            {
+                "Item": "Paya",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Mutton"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1400
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Cheezious",
+        "Location": "F-10",
+        "Menu": [
+            {
+                "Item": "Burger",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Beef",
+                    "Chicken"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            },
+            {
+                "Item": "Pizza",
+                "Cuisine": "Italian",
+                "Flavours": [
+                    "Pepperoni",
+                    "Margherita"
+                ],
+                "Size": [
+                    {
+                        "Size": "Small",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Medium",
+                        "Price": 1200
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1600
+                    }
+                ]
+            },
+            {
+                "Item": "Pasta",
+                "Cuisine": "Italian",
+                "Flavours": [
+                    "Alfredo",
+                    "Bolognese"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1200
+                    }
+                ]
+            },
+            {
+                "Item": "Sandwich",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 400
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 700
+                    }
+                ]
+            },
+            {
+                "Item": "Salad",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Caesar",
+                    "Greek"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Masalawala",
+        "Location": "Blue Area",
+        "Menu": [
+            {
+                "Item": "Karahi",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Mutton"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 1500
+                    }
+                ]
+            },
+            {
+                "Item": "Biryani",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 500
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 900
+                    }
+                ]
+            },
+            {
+                "Item": "Nihari",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 600
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1000
+                    }
+                ]
+            },
+            {
+                "Item": "Korma",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Mutton"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 1300
+                    }
+                ]
+            },
+            {
+                "Item": "Haleem",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 500
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 900
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Savour",
+        "Location": "Saddar",
+        "Menu": [
+            {
+                "Item": "Pulao",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 400
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 700
+                    }
+                ]
+            },
+            {
+                "Item": "Biryani",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 500
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 900
+                    }
+                ]
+            },
+            {
+                "Item": "Karahi",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Mutton"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 1500
+                    }
+                ]
+            },
+            {
+                "Item": "Nihari",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 600
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1000
+                    }
+                ]
+            },
+            {
+                "Item": "Korma",
+                "Cuisine": "Desi",
+                "Flavours": [
+                    "Chicken",
+                    "Mutton"
+                ],
+                "Size": [
+                    {
+                        "Size": "Half",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Full",
+                        "Price": 1300
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Cafe Oysteria",
+        "Location": "F-7",
+        "Menu": [
+            {
+                "Item": "Sushi",
+                "Cuisine": "Japanese",
+                "Flavours": [
+                    "Salmon",
+                    "Tuna"
+                ],
+                "Size": [
+                    {
+                        "Size": "8 pieces",
+                        "Price": 1200
+                    },
+                    {
+                        "Size": "16 pieces",
+                        "Price": 2200
+                    }
+                ]
+            },
+            {
+                "Item": "Ramen",
+                "Cuisine": "Japanese",
+                "Flavours": [
+                    "Chicken",
+                    "Pork"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1400
+                    }
+                ]
+            },
+            {
+                "Item": "Tempura",
+                "Cuisine": "Japanese",
+                "Flavours": [
+                    "Shrimp",
+                    "Vegetable"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1200
+                    }
+                ]
+            },
+            {
+                "Item": "Teriyaki",
+                "Cuisine": "Japanese",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 900
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1600
+                    }
+                ]
+            },
+            {
+                "Item": "Miso Soup",
+                "Cuisine": "Japanese",
+                "Flavours": [
+                    "Tofu",
+                    "Seaweed"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Monal",
+        "Location": "Pir Sohawa",
+        "Menu": [
+            {
+                "Item": "Steak",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Beef",
+                    "Chicken"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 1500
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 2500
+                    }
+                ]
+            },
+            {
+                "Item": "Pasta",
+                "Cuisine": "Italian",
+                "Flavours": [
+                    "Alfredo",
+                    "Bolognese"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1200
+                    }
+                ]
+            },
+            {
+                "Item": "Pizza",
+                "Cuisine": "Italian",
+                "Flavours": [
+                    "Pepperoni",
+                    "Margherita"
+                ],
+                "Size": [
+                    {
+                        "Size": "Small",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Medium",
+                        "Price": 1200
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1600
+                    }
+                ]
+            },
+            {
+                "Item": "Burger",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Beef",
+                    "Chicken"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            },
+            {
+                "Item": "Salad",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Caesar",
+                    "Greek"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "NY212",
+        "Location": "G-11",
+        "Menu": [
+            {
+                "Item": "Pizza",
+                "Cuisine": "Italian",
+                "Flavours": [
+                    "Pepperoni",
+                    "Margherita"
+                ],
+                "Size": [
+                    {
+                        "Size": "Small",
+                        "Price": 800
+                    },
+                    {
+                        "Size": "Medium",
+                        "Price": 1200
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1600
+                    }
+                ]
+            },
+            {
+                "Item": "Pasta",
+                "Cuisine": "Italian",
+                "Flavours": [
+                    "Alfredo",
+                    "Bolognese"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 700
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 1200
+                    }
+                ]
+            },
+            {
+                "Item": "Burger",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Beef",
+                    "Chicken"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            },
+            {
+                "Item": "Salad",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Caesar",
+                    "Greek"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 300
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 500
+                    }
+                ]
+            },
+            {
+                "Item": "Sandwich",
+                "Cuisine": "Continental",
+                "Flavours": [
+                    "Chicken",
+                    "Beef"
+                ],
+                "Size": [
+                    {
+                        "Size": "Regular",
+                        "Price": 400
+                    },
+                    {
+                        "Size": "Large",
+                        "Price": 700
+                    }
+                ]
+            }
+        ]
+    }
+]
